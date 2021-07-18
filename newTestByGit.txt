@@ -1,0 +1,4 @@
+git checkout -b dev	创建并切换到分支dev
+git branch dev		创建分支dev
+git checkout dev	切换到分支dev
+git branch		查看所有的分支并在当前分支前标识*
