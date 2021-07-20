@@ -11,5 +11,9 @@ git branch		查看所有的分支并在当前分支前标识*
 git merge dev		将dev分支合并到当前分支
 git branch -d dev	删除dev分支
 
-主分支打了一句话------------------------------main
-----------------------------------------------feture1
+git stash		将目前工作暂存起来
+git stash list		查看暂存工作列表
+git stash apply		恢复工作不删除暂存工作，需用	git stash drop删除
+git stash pop		恢复的同时删除stash内容
+
+
