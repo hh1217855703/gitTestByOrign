@@ -1,13 +1,6 @@
-Hello World!
+﻿Hello Worldo!
 Good Morning, Sir!
 
-我是Main，我是老大，听我的
-
-我是dev，听我的
-
-<<<<<<< HEAD
-我是Main，我是老大，听我的
-=======
-我是dev，听我的
->>>>>>> dev
-
+我正在做事情，一个紧急Bug打断了我的工作....
+----隔了一段时间----
+bug修复完成啦
